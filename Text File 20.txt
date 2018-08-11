@@ -1,0 +1,18 @@
+¡Bienvenid[VAR GENDBR(00FF,0101)]oa a la Administración de Lotería ID!\c\nSi el número que sale agraciado se corresponde\nparcial o totalmente con el ID de cualquiera de\r\ntus Pokémon, ¡puedes llevarte premios jugosos!\c\n¿Qué me dices?\n¿Deseas poner a prueba tu suerte?
+Sabia decisión.\n¡Te deseo la mejor de las suertes!
+...[WAIT 10] ...[WAIT 10] ...
+¡Ya ha salido el número premiado!\n¡Es nada más y nada menos que el [VAR NUM5(0000,0000)]!\c\nVamos a ver si hay alguna coincidencia con el ID\nde cualquiera de tus Pokémon...
+¡Sí, señor! ¡Enhorabuena!\c\nEl ID de tu [VAR PKNICK(0001)] contiene números\nque coinciden con el agraciado.\r\nVamos a ver en qué medida...
+¡Sí, señor! ¡Enhorabuena!\c\nEl ID del [VAR PKNICK(0001)] de tu PC contiene\nnúmeros que coinciden con el agraciado.\c\nVamos a ver en qué medida...
+¡Lo veo y no lo creo!\n¡Coinciden los cinco números!\c\nCon esa suerte milagrosa, has logrado llevarte\nel premio gordo: ¡una Master Ball!
+¡Impresionante! ¡Coinciden cuatro números!\c\nCon esa suerte prodigiosa, has logrado llevarte\nel primer premio: ¡un Caramelo Raro!
+¡Ooh! ¡Coinciden tres números, ni más ni menos!\c\nCon esa suerte tan especial, has logrado\nllevarte el segundo premio: ¡un PP Máximos!
+Coinciden dos números, ¡mira qué bien!\c\nPues no está nada mal, porque te acabas de\nllevar el tercer premio: ¡un Más PP!
+Pues coincide un número, por lo que veo.\c\nBueno, menos da una piedra. Al menos te llevas\nel cuarto premio: ¡una botella de Leche Mu-mu!
+Vaya, qué lástima. No ha habido suerte.
+¡Esperamos volver a verte!
+Lo siento, en este centro a la lotería\nsolo puedes jugar una vez al día.\c\nY sin haberlo deseado, me ha salido un pareado.\nVuelve mañana para tentar a la suerte de nuevo.
+[~ 14]
+¡Has recibido [VAR 1702(0001)][VAR COLOR(0002)][VAR ITEM2(0001)][VAR COLOR(0000)]!
+Metes [VAR 1700(0001)][VAR ITEM2(0001)] en el [VAR COLOR(0002)]Bolsillo\n[VAR 0112(0002)][VAR COLOR(0000)].
+Antes de participar, se guardará la partida.\n¿Estás de acuerdo?

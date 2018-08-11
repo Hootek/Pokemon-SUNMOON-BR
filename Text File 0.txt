@@ -1,0 +1,101 @@
+~~~~~~~~~~~~~~~
+Text File : 0
+~~~~~~~~~~~~~~~
+Bienvenid[VAR GENDBR(00FF,0101)]oa al Árbol de Combate.
+¿En qué te puedo ayudar?
+¿Sobre qué tema quieres información?
+En el Árbol de Combate se citan Entrenadores\nde lo más variopinto para enfrentarse en\r\ntodo tipo de combates.\c\nPuedes elegir entre las siguientes modalidades:\nIndividual, Doble o Múltiple.\c\nLos jugadores han de combatir hasta que\npierdan, con el objetivo de ser quien ostente\r\nel mayor número de victorias consecutivas.\c\nEs decir, que en cuanto sufras una derrota se\ndetendrá el contador de victorias y tendrás que\r\nempezar de nuevo desde cero.\c\nPor último, tras ganar a cualquier Entrenador\nrecibes Puntos de Batalla, también llamados PB,\r\ncomo premio por tu victoria.\c\nCuantas más victorias consecutivas acumules,\nmayor será la cantidad de PB que recibas.\c\nAsí que ya sabes: ¡el esfuerzo tiene su\nrecompensa!
+Para disfrutar plenamente de lo que ofrece el\nÁrbol de Combate, es mejor estar al corriente\r\nde las reglas. Presta atención, por favor.\c\nLo primero que debes saber es que en el Árbol\nde Combate siempre hay restricciones.\c\nLos Pokémon que tengan un nivel superior a 50\npasarán automáticamente a tener Nv. 50.\c\nLuego, el número de Pokémon necesarios difiere\nsegún el tipo de combate en el que se participe:\c\n3 Pokémon para Combates Individuales, 4 para\nCombates Dobles y 2 Pokémon por Entrenador\r\nen los Combates Múltiples.\c\nPor último, todos los Pokémon y sus respectivos\nobjetos deben ser diferentes, aunque en los\r\nCombates Múltiples, se permite repetir los\r\nmismos Pokémon y objetos.
+Espero verte pronto. Estaré a tu disposición si\nlo necesitas.
+¿En qué tipo de combate quieres participar?
+Tu racha de victorias consecutivas obtenidas\nhasta el momento asciende a [VAR NUM4(0001,0000)].
+¿Quieres participar en Combates Individuales?
+¿Quieres participar en Supercombates\nIndividuales?
+¿Quieres participar en Combates Dobles?
+¿Quieres participar en Supercombates Dobles?
+Selecciona los Pokémon con los que\ndeseas luchar.
+¿Quieres participar en Combates Múltiples?
+¿Quieres participar en Supercombates\nMúltiples?
+¿Quieres conectarte con un amigo para afrontar\neste reto en equipo?
+La opción elegida por tu amigo es diferente a la\nque has elegido tú. Ponte en contacto con tu\r\namigo o amiga e inténtalo de nuevo.
+Elige con qué Entrenador quieres formar equipo.
+Muy bien. Prosigamos entonces con los\nCombates Individuales.
+Muy bien. Prosigamos entonces con los\nSupercombates Individuales.
+Muy bien. Prosigamos entonces con los\nCombates Dobles.
+Muy bien. Prosigamos entonces con los\nSupercombates Dobles.
+Muy bien. Prosigamos entonces con los\nCombates Múltiples.
+Muy bien. Prosigamos entonces con los\nSupercombates Múltiples.
+Guardando...\nPor favor, espera.
+¡Enhorabuena por tan magnífico combate!\c\nDerrotar a un Campeón Legendario se merece\nun obsequio: aquí tienes PB.
+¡Enhorabuena por tan magnífico combate!\c\nDerrotar a un Campeón Legendario cuando va a\npor todas merece un obsequio: aquí tienes PB.
+Has obtenido [VAR NUM2(0005)] PB.
+[VAR TRNAME(0000)], a partir de ahora ya puedes\nparticipar en los Supercombates Individuales.
+[VAR TRNAME(0000)], a partir de ahora ya puedes\nparticipar en los Supercombates Dobles.
+[VAR TRNAME(0000)], a partir de ahora ya puedes\nparticipar en los Supercombates Múltiples.
+Gracias por participar en el Árbol de Combate.\c\nLos retos de Combate Individual han finalizado\npor ahora. ¡No te olvides de disfrutar de los\r\nSupercombates Individuales!
+Gracias por participar en el Árbol de Combate.\c\nLos retos de Combate Doble han finalizado por\nahora. ¡No te olvides de disfrutar de los\r\nSupercombates Dobles!
+Gracias por participar en el Árbol de Combate.\c\nLos retos de Combate Múltiple han finalizado\npor ahora. ¡No te olvides de disfrutar de los\r\nSupercombates Múltiples!
+¡Has obtenido un gran logro, cincuenta victorias\nconsecutivas!\c\nComo obsequio por tan magnífica hazaña, te\notorgamos un sello conmemorativo.
+El próximo combate será el número [VAR NUM4(0001,0000)].\n¿Quieres que dé comienzo?
+El próximo combate será el número [VAR NUM4(0001,E07F)]. ¡Ve\ncon cuidado, los Campeones Legendarios son\r\nduros de roer! ¿Quieres comenzar ya?
+¿Quieres pausar el reto?
+Se ha interrumpido el reto.
+Esperando a que se establezca la conexión...
+La melodía que suena ahora durante los\ncombates es “[VAR 01C3(0000)]”.\c\nElige otra si quieres.
+Vale, la he cambiado a esa.
+Combatir
+Quiero información
+No quiero nada
+Sobre el Árbol de Combate
+Sobre las modalidades
+[~ 47]
+Combate Individual
+Supercombate Individual
+Combate Doble
+Supercombate Doble
+[~ 52]
+[~ 53]
+Combate Múltiple
+Supercombate Múltiple
+Continuar
+Guardar Vídeo de Combate
+Pausar
+?Entrenador?
+?Pokémon salvaje?
+?Pokémon dominante?
+?Kahuna?
+Cambiar la melodía
+[~ 64]
+Yo me encargo del registro del Árbol de\nCombate. ¿Quieres consultar tus resultados?
+¿Qué resultados deseas consultar?
+Tu racha actual es de [VAR NUM4(0000,0000)].\nTu mejor racha hasta ahora es de [VAR NUM4(0001,0000)].
+La comunicación inalámbrica está desactivada.\c\nUsa el interruptor de la comunicación\ninalámbrica para activarla.
+[~ 69]
+No puedes combatir con ese jugador.
+Reclutar
+¡Para elegir a un compañero necesitas 10 PB!
+Para elegir a un compañero necesitas 10 PB.\n¿Estás de acuerdo?
+¡No hay espacio para nadie más!\c\n¿Quieres eliminar a alguien de la lista?
+Muy bien, no se elegirá [VAR 170A(0000)]\n[VAR 019E(0000)].
+Muy bien.\c\nSe ha añadido a tu lista de compañeros [VAR 170A(0000)]\n[VAR 019E(0000)].
+[~ 77]
+¡Enhorabuena, [VAR TRNAME(0000)]! Has superado\ntu racha anterior de [VAR NUM4(0001,E07F)] victorias.\c\nAquí tienes un premio.
+Aquí tienes otro premio.
+¡Te has enfrentado con éxito a muchísimos\nEntrenadores y Entrenadoras de todo el mundo!\c\nGracias a esta gran experiencia has podido\naprender un nuevo estilo de lanzamiento...
+Cuando participes en un Combate Múltiple\npodrás elegir como compañeros a Entrenadores\r\na quienes hayas vencido en Combates\r\nIndividuales o Dobles en el Árbol de Combate.\c\nLa excepción son los Campeones Legendarios, a\nquienes no podrás seleccionar.\c\nBuena suerte y ojalá encuentres un compañero\no compañera que sea de tu agrado.
+Acerca de los Compañeros
+?Aquí llega Tilo?
+?Aquí llega Gladio?
+?Team Skull?
+?Comandante Skull?
+?Jefe del Team Skull?
+?Fundación Æther?
+?Directora Samina 1?
+?Directora Samina 2?
+?Ultraente?
+?Alto Mando?
+?Defendiendo el título?
+?Pokémon legendario?
+?Battle Royale?
+?Espíritu guardián?
+?Jefe Árbol de Combate?

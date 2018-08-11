@@ -1,0 +1,27 @@
+~~~~~~~~~~~~~~~
+Text File : 1
+~~~~~~~~~~~~~~~
+¡Bienvenid[VAR GENDBR(00FF,0101)]oa a la recepción del Estadio Royale!
+¿Quieres participar en un Battle Royale?
+Selecciona un nivel.
+¿Quieres participar en un Battle Royale de\nNivel Avanzado?
+¿Quieres participar en un Battle Royale de\nNivel Maestro?
+¡El Battle Royale consiste en un apasionante\ncombate entre cuatro Entrenadores! Cada uno\r\npuede llevar hasta un máximo de tres Pokémon.\c\nEn este tipo de combates, todos los demás\nEntrenadores serán tus contrincantes, y\r\nsolamente uno puede alzarse con la victoria.\c\nCuando uno de los cuatro Entrenadores se\nquede sin Pokémon, el combate se dará por\r\nconcluido.\c\nEl vencedor será el que se encuentre en primera\nposición en ese momento.\c\nLa clasificación de los participantes se\ndetermina mediante dos factores: el número de\c\nPokémon rivales que hayan derrotado y el\nnúmero de Pokémon aptos para el combate que\r\nles queden en el equipo.\c\nCuanto mayores sean estos valores, mayor será\nel número de puntos que se consiga.\c\nEn caso de empate, el factor determinante será\nel número de Pokémon derrotados.\c\nEn caso de producirse un empate en este punto,\nel jugador cuyos Pokémon sumen más PS\r\nserá declarado el vencedor.\c\nPor lo tanto, los Entrenadores han de intentar\nderrotar al máximo número de Pokémon posible\r\ny que su equipo reciba el menor daño.\c\nEspero que haya quedado todo claro.
+Elige con qué Pokémon quieres participar.
+¡Yo soy Royale, el Enmascarado!\c\n¡He escuchado hablar de tus proezas, así que\nhe decidido enfrentarme a ti en persona!\r\n¡Espero que sea un combate fantástico!
+¡Bien, parece que ya lo tienes todo preparado\npara el gran combate!\c\nPor aquí, por favor.
+Esperamos volver a verte por aquí.
+¡Gracias por participar!
+¡Enhorabuena por la victoria!\c\n¡Tu [VAR PKNICK(0001)] y tú os habéis empleado a\nfondo!
+¡A partir de ahora puedes participar en\ncombates de Nivel Alto!
+¡A partir de ahora puedes participar en\ncombates de Nivel Avanzado!
+¡A partir de ahora puedes participar en\ncombates de Nivel Maestro!
+¡Aquí tienes un sello por haber salido airos[VAR GENDBR(00FF,0101)]oa\nde un combate de Nivel Maestro! ¡Enhorabuena!
+Aquí tienes tus PB.
+¡[VAR TRNICK(0000)] ha obtenido [VAR NUM1(0001)] PB!
+¡Esperamos que vuelvas a participar en un\nBattle Royale pronto!
+¡Pues ha estado muy bien! ¡Nos vemos por ahí!
+Participar
+No participar
+Instrucciones
+¡Este combate te ha hecho descubrir un estilo\nde lanzamiento completamente nuevo!

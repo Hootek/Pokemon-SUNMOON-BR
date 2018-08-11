@@ -1,0 +1,98 @@
+¡Bienvenid[VAR GENDBR(00FF,0101)]oa a la Cafetería del Centro Pokémon!\n¡Ahora mismo son las [VAR NUM2(0000)] h en Alola!\c\n¡Aquí podrás relajarte mientras te tomas una de\ntus bebidas favoritas!
+¡Esperamos volver a verte por aquí!
+¿Qué te gustaría tomar hoy?
+Limonada
+Skittolate
+Leche Mu-mu
+Zumo de Pinia
+Té Roserade
+Expreso Granbull
+¿[VAR 1703(0002)][VAR 01C2(0002)]?\nPues son [VAR NUM3(0001)] $. ¿Te parece bien?
+Una receta exclusiva de nuestra cafetería y\npreparada con los mejores productos de Alola.\c\nEs muy dulce y te deja un agradable sabor\nen la boca.
+¡Tiene un sabor tan exquisito que querrás\nrepetir!\c\n¡Es tan suave y deliciosa que desearás que un\nMiltank te adopte!
+Este zumo se prepara utilizando únicamente\nBayas Pinia mimadas por los rayos del sol.\c\nEsta perfecta combinación de acidez y dulzor\nhará que tu paladar se eche a bailar.
+Esta Limonada está preparada con la más\nexquisita selección de bayas, lo que le otorga\r\nun dulzor especial.\c\n¡Déjate llevar por el torbellino de sensaciones\nque esta deliciosa bebida te hará sentir!
+¡La famosa Leche Mu-mu!\c\n¡Bébetela de un trago y siente el fuerte abrazo\nde la felicidad!
+Este té, preparado con las hojas preferidas de\nRoserade, posee una intensa fragancia.\c\nTe hará bailar cual Pokémon bajo el movimiento\nDanza Pétalo.
+He cambiado de idea
+No hay nada mejor que una buena taza de\nSkittolate calentito para recuperar fuerzas antes\r\nde proseguir tu aventura.\c\nPruébalo también en frío, ¡no te arrepentirás!
+El espléndido sol de Alola permite exprimir todo\nel potencial de la Baya Pinia.\c\n¡Nuestro zumo está lleno de vitaminas para\nprevenir resfriados! ¡Y encima está riquísimo!
+Esta delicada infusión se prepara con las hojas\nfavoritas de Roserade que, previamente, han\r\nsido fermentadas. ¡Dulce y estimulante!
+¡Déjate de expendedoras y prueba nuestra\nLimonada casera!\c\n¿Qué? ¿A que está deliciosa?
+Qué chocolate tan cremoso...\c\nEl Skittolate está tan rico que se te olvidará\nlo mucho que engorda, ya verás...\c\n¡Voy a tomarme uno yo también!
+¿No te da la sensación de que cuanto más\nácido es el zumo, más sano es?\c\nEs la sensación que me da a mí, pero vamos,\nrico sí que está, eso te lo aseguro.
+Un aroma a cacao intenso y a la vez suave...\c\nTan suave y sedoso como el pelaje de un\nSkitty. ¡Esa es la magia del Skittolate!
+¿Serás capaz de soportar la gran acidez de\nnuestro Zumo de Pinia?\c\nBébetelo de un trago, ¡a ver si eres capaz!
+El café de Alola es famoso en todo el mundo.\c\nPodría arrancarle una sonrisa incluso al Granbull\ncon la cara más terrorífica.
+El Skittolate ayuda a mejorar la circulación\nsanguínea, por lo que es la bebida ideal cuando\r\nquieres relajarte y olvidarte de todo.\c\nHay a quien le gusta añadirle un poco de sal.
+En realidad, este zumo está elaborado con piel\nde Bayas Pinia de Akala.\c\nLa pulpa de la baya me la he comido yo, y vaya\nacidez... de estómago que me acaba de entrar.\c\nMenos mal que tengo bicarbonato.
+¡Es extremadamente amargo!\c\nComo te lo bebas de un solo trago, se te\nquedará un rictus digno de un Granbull.\c\n¡Así de potente es nuestro café!
+Yo mismo he ordeñado a Miltank esta mañana\npara prepararte esta Leche Mu-mu.\c\nBébetela sin prisa para saborearla mejor.
+La acidez de la Baya Pinia hace que se te\nentumezcan los dedos al exprimirla, pero puedo\r\nasegurarte que nuestro zumo no tiene nada que\r\nenvidiarle al que preparan los Shuckle.
+Esta técnica para preparar el café nos viene de\nla mano de un barista misterioso...\c\nGracias a ella, podemos preparar nuestro\ncafé legendario: el Expreso Granbull.
+Junta unas pocas bayas y tritúralas bien.\n¿Qué consigues? ¡Una explosión de sabores!\c\n¡Ooole, ooole y requeteole! ¡Aquí tienes! ¡Muy\nbuena elección!
+Esta Leche Mu-mu está recién ordeñada.\n¡Que te aproveche!
+Para catar el Té Roserade como un experto,\nlo primero es olerlo para apreciar su suave y\r\ndelicado aroma.\c\nY bueno, en realidad... como tardes mucho en\nbebértelo, se enfriará y ya no estará igual de\r\nrico...
+Nuestra Limonada se elabora mezclando más de\n50 tipos distintos de bayas, todas cultivadas\r\ny recolectadas en Alola. ¿No te parece algo\r\ninteresantísimo?\c\n¿No? Vaya... Entonces no te importará si solo\nlleva 47...
+¡Skittolate! ¡El único chocolate tan suave y\ncremoso como la delicada cola de un Skitty!\c\nLo del “late” confunde a mucha gente y les hace\ncreer que se trata de un café, cuando no lo es.\c\nAy, ya me estoy enrollando otra vez...\n¡Que aproveche!
+¿Sabías que la Leche Mu-mu la producen los\nMiltank?\c\nOye, que quede entre nosotros, pero nuestra\nLeche Mu-mu es tan buena como la que produce\r\nel Miltank de Blanca, la Líder de Ciudad Trigal.\c\nEn fin... No me enrollo más. ¡Que aproveche!
+Hoy he conseguido preparar el Skittolate más\nrico de la historia. Espero que te guste.\c\n¡Ojalá me saliese siempre así de bien!
+Antes se solía tomar la Leche Mu-mu como un\nremedio para sanar ciertas dolencias.\c\nDicen que beber dos vasos de Leche Mu-mu al\ndía es bueno para el estómago.
+Antes se solía tomar la Leche Mu-mu como un\nremedio para sanar ciertas dolencias.\c\nDicen que beber dos vasos de Leche Mu-mu al\ndía es bueno para el estómago.
+Se cuentan historias de un barista misterioso.\c\nDicen que, tras haber librado innumerables\ncombates contra los más cafeteros del mundo,\r\nlogró la receta que le permitiría elaborar el\r\nmejor café de la historia.
+Empleamos bayas extremadamente maduras que\nle dan más cuerpo a nuestra Limonada y que, al\r\nmismo tiempo, le otorgan una acidez de la que\r\npodemos hacer gala.
+Esperamos que este té sea de tu agrado, pues\nnuestros trabajadores han tenido que vérselas\r\ncon un Roserade para conseguir los ingredientes\r\nnecesarios. ¡Así que aprecia cada sorbo!
+Utilizamos ingredientes de regiones muy lejanas\npara preparar nuestro café, por lo que podrás\r\napreciar una gran variedad de sabores.\c\nPuede que ni te parezca un Expreso Granbull.
+¡Entendido! Te sirvo en un momentín.
+Aquí tienes tu [VAR 01C2(0002)].\n¡Que aproveche!
+¡Vaya! Parece que no tienes suficiente dinero.\c\nPero te agradecemos de todo corazón que\nhayas venido expresamente para degustar\r\nnuestros productos.
+Te ayudará a recuperar energía.
+Te despejará la mente.
+Te quitará todo el sueño.
+¡La bebida ideal cuando te dispones a hacer\nfrente a la prueba de esta zona, sin duda!\c\nLos movimientos de tipo Planta o Eléctrico son\nmuy eficaces contra los Pokémon de tipo Agua.\r\n¡Tenlo presente!
+¡La bebida ideal cuando te dispones a hacer\nfrente a la prueba de esta zona, sin duda!\c\nLos movimientos de tipo Planta o Eléctrico son\nmuy eficaces contra los Pokémon de tipo Agua.\r\n¡Tenlo presente!
+¡La bebida ideal cuando te dispones a hacer\nfrente a la prueba de esta zona, sin duda!\c\nLos movimientos de tipo Planta o Eléctrico son\nmuy eficaces contra los Pokémon de tipo Agua.\r\n¡Tenlo presente!
+¡Nuestra Leche Mu-mu está muy por encima del\nresto!\c\nY lo digo literalmente, porque bueno... ya sabes,\nestamos en el monte más alto de Alola y tal...\c\nNo puedo contarte cómo la transportamos hasta\naquí, pero deja volar tu imaginación mientras la\r\nsaboreas. Je, je.
+El Té Roserade posee un sabor extremadamente\npotente y resulta complicado conseguir un\r\nequilibrio perfecto al rebajarlo con otra bebida.\c\nUna de las opciones más socorridas para\nsuavizar un poco su sabor es echarle unas\r\ngotitas de Leche Mu-mu.
+Así que has venido hasta aquí expresamente\npara tomarte un Expreso Granbull, ¿eh?\c\nJa, ja. ¿Lo pillas? Expresamente. Expreso.\c\nEh... Cambiando de tema, como en la cima del\nmonte hay menos presión, la temperatura de\r\nebullición del agua es menor, por lo que es muy\r\ndifícil conseguir un sabor auténtico...
+¿“Limonada”, dices? Pues he escuchado que\nviene de la región de Kalos, pero vete tú a\r\nsaber...
+Nuestro Skittolate lleva una buena cantidad de\nLeche Mu-mu, por lo que queda especialmente\r\ncremoso y delicioso.
+Poder tomar un Té Roserade en un lugar tan\nelevado, tan cerca de las estrellas...\c\n¿No crees que es la mejor forma de disfrutarlo?
+Hoy tenemos una especialidad de la región de\nKalos, el dulce estrella de Ciudad Luminalia.
+Hoy puedes degustar un dulce traído\ndirectamente de la región de Johto, en concreto\r\nde Pueblo Caoba.
+Hoy tenemos la especialidad de Ciudad\nPorcelana, en la región de Teselia.
+Hoy contamos con la especialidad de Ciudad\nVetusta, en la región de Sinnoh.
+Permíteme mostrarte la especialidad de Ciudad\nYantra, en la región de Kalos.
+Hoy puedes saborear la especialidad de Pueblo\nLavacalda, de la región de Hoenn, nada más y\r\nnada menos.
+Hoy puedes probar un chocolate\nextremadamente dulce.
+Acompaña tu bebida con alguno de estos\nexquisitos dulces. ¡Cada día uno distinto!
+¡He aquí un pequeño obsequio para tu[VAR NUMBRNCH(00FD,0100)]s\nPokémon!
+Las Pokéhabas son una de las especialidades\nde Alola, ¡y a los Pokémon les encantan!\c\n¡Dáselas a tus Pokémon en el Poké Relax y ya\nverás como os hacéis mucho más amigos!
+Oye, por curiosidad... ¿Sueles ponerles motes a\nlos Pokémon?\c\n¿Sabías que solo el dueño original puede\ncambiar luego su mote?\c\nSi le pones un mote a un Pokémon y lo\nintercambias, ya no habrá forma de cambiárselo.\c\n¡Así que no les pongas motes al tuntún!
+Oye, ¿sueles guardar con frecuencia?\c\nYa sé que a veces es un engorro tener que\npararse a guardar la partida, pero merece la\r\npena hacerlo de vez en cuando. ¡Por si las\r\nmoscas!
+Oye, ¿estás dándole uso a la Festi Plaza o no?\c\n¡Puedes comunicarte con cualquier persona en\ncualquier momento! ¿No es alucinante cómo\r\navanza la tecnología?\c\nA veces aparecerá una exclamación sobre el\nicono de la Festi Plaza. ¡Eso indica que hay\r\nnovedades, así que no dudes en pasarte!
+Oye, ¿has echado un vistazo al Poké Resort ya?\c\nSon unas islas remotas en las que tus Pokémon\npueden pasar el tiempo sin que tú tengas que\r\npreocuparte por ellos.\c\nAunque a veces se hace duro pensar que están\ntan lejos... Ay, mis Pokémoncitos.
+Oye, ¿sueles usar el Pokévisor para sacarles\nfotos a los Pokémon?\c\n¡Con él podrás capturar los mejores momentos\nde tu aventura y guardarlos como recuerdos\r\npara la posteridad!\c\n¿No es maravilloso?
+Oye, ¿sueles usar el Poké Relax con tus\nPokémon?\c\nYo siempre cuido de mis Pokémon como si me\nfuese la vida en ello. ¡Nunca les faltan los mimos!\c\nA veces, se ponen perdidos durante los\ncombates, pero en el Poké Relax se pueden\r\nbañar y quedar como nuevos.\c\n¡Puedo pasarme horas y horas pendiente de mis\nPokémon!
+Oye, ¿sueles montar en Stoutland?\c\nSabes que puedes encontrar infinidad de cosas\ncuando viajas a su lomo, ¿verdad?\c\n¡A veces pierdo la noción del tiempo y me paso\nhoras y horas buscando tesoros escondidos\r\npor ahí!
+Oye, ¿sueles grabar Vídeos de Combate?\c\n¡Me encantan los combates Pokémon! Me lo paso\npipa tanto grabándolos como viéndolos.\c\nDe hecho, no es rara la vez que me tiro hasta\nlas tantas de la madrugada viendo Vídeos de\r\nCombate...\c\nY, claro, luego siempre se me pegan las sábanas\ny llego tarde al trabajo...
+Oye, ¿sueles revisar tu Pasaporte?\c\nA veces me da por mirar el mío y me pongo a\nver todos los sellos, y... no puedo evitar\r\nrecordar aventuras y tiempos pasados...\c\n¡Me pongo de un melancólico...!
+Oye, ¿utilizas la conexión rápida de vez en\ncuando?\c\n¡Es una función increíblemente práctica! Puedes\nechar combates con tus amigos en un abrir y\r\ncerrar de ojos.\c\nLo malo es que cuando te juntas con muchos\namigos, no sabes con quién te va a tocar...
+Oye, ¿ya te has pasado alguna vez por\nCuidados Pokémon?\c\nSi dejas a un macho y a una hembra que se\nlleven muy bien, puede que te lleves una\r\npequeña sorpresita cuando vuelvas.\c\n¡Con sorpresita me refiero a un Huevo, claro!
+Oye, ¿has conseguido ya muchas Pokéhabas?\c\n¡Se pueden hacer muchas cosas con ellas! Por\nejemplo, puedes dárselas a tus Pokémon o\r\ntostarlas y preparar un café delicioso. ¡Ñam!\c\n¡Hace ya mucho tiempo que forman parte de la\ngastronomía de Alola! Y con razón... ¡son muy\r\nversátiles!\c\nSi quieres unas pocas, te recomiendo que vayas\nal Poké Resort de Polo. ¡Allí podrás encontrar\r\nunas Pokéhabas fabulosas!
+Creo que uno solo llega a entender el verdadero\nsignificado de la expresión “el tiempo es oro”\r\ncuando llega a una determinada edad...\c\nEs verdad. Ni siquiera el dinero puede comprar\nel tiempo.\c\nEl presente es efímero y fugaz, y si no lo\naprovechas ahora, perderás la oportunidad...
+Hoy en día la gente vive con mucha prisa, sin\ncalma... Por eso decidí abrir esta cafetería.\c\nQuería ofrecer a la gente un lugar donde\nrelajarse y descansar... Tomarse la vida con\r\nalgo más de tranquilidad.
+Vivimos en una era en la que todos estamos\nconectados, sin importar de dónde procedamos.\r\nPero esto también tiene sus inconvenientes.\c\nNo todos vivimos en el mismo huso horario, por\nlo que puede que nuestra hora y la de la\r\npersona con la que intentamos conectar sean\r\ndistintas.\c\nEs probable que encuentres a gente de\ndeterminados países con más facilidad porque\r\nsus horarios cuadran mejor con los tuyos.
+Los días que pasan, las horas transcurridas no\nquedan registradas en ningún lugar.\c\nPor eso el tiempo es nuestro recurso más\npreciado, porque una vez que se va, ya no\r\npodemos recuperarlo de ninguna manera.\c\nDe modo que cuando acudes tarde a alguna cita,\nle estás robando algo de gran valor a la otra\r\npersona. ¡Ten un poco de consideración!\c\nMi señora me echó una vez una bronca de aúpa\nporque siempre llegaba tarde a los sitios.
+El tiempo no distingue entre personas, es igual\npara todos...\c\nFluye de la misma forma para alguien que sale\nfuera a divertirse como para alguien que se\r\nqueda en casa sin hacer nada productivo...\c\nCómo aprovechar el tiempo depende de ti.\nYo, personalmente, creo que es importante\r\ndarle un buen uso.
+Los medios de transporte son lo más útil del\nmundo, ¿no te parece?\c\nPuedes llegar a los sitios mucho más rápido\nque andando, ¡así que ahorras un montón de\r\ntiempo!
+“Oh, sol, tú que nos visitas cada mañana\ny con tus fulgentes rayos nos bañas.\c\nTú, cuerpo celeste, la vida nos propicias\ny con gran esmero nos cuidas.\c\nSobre nosotros cae el dulce manto de la noche,\ny tú, luna generosa, en tu lecho nos acoges.\c\nIluminas allá donde la oscuridad todo lo anega,\ny nuestros corazones con tu luz sosiegas”.\c\nEs una pequeña canción que compuse hace un\ntiempo para darles las gracias a la luna y al sol\r\npor iluminar siempre nuestras vidas.
+Desde que el tiempo es tiempo, la luna y el sol\nhan desempeñado papeles muy importantes en\r\nnuestras vidas.\c\nNos fijamos en la luna para dividir el año en\ndoce meses, y en el sol para dividir los días en\r\nveinticuatro horas.
+Nuestro planeta gira alrededor del sol... Y la luna\ngira alrededor de nuestro planeta...\c\n¿Te has parado a pensar en torno a qué gira tu\nvida? Seas consciente o no de ello, en tu vida\r\nsiempre habrá algo que determinará tus\r\ndecisiones y tu futuro...
+Oye, ¿acudes con frecuencia a la Festi Plaza?\c\n¡Puedes comunicarte con cualquier persona en\ncualquier momento y pasarlo en grande!\c\n¿No crees tú también que la Festi Plaza es una\nmaravilla de la tecnología?
+No importa si combates contra un desconocido\no contra un amigo, los combates con límite de\r\ntiempo siempre son los más acalorados. Tanto\r\nque acabas perdiendo la noción del tiempo.
+¿Sabes que el tiempo no afecta igual a la gente\nque se mueve mucho que a la que se está\r\nquietecita?\c\nEs una movida. Parece que pasa más despacio\ncuando estás en movimiento.\c\nNo me lo invento, ¿eh? ¡Te lo juro! Hay muchos\nestudios científicos que lo demuestran.\c\nDesde que lo sé, me pienso bastante qué es lo\nque voy a hacer...
+¡Has recibido varias Pokéhabas!
+¡Déjame ver! Hmm...\c\n¡Les has dado [VAR NUM6(0000,E07F)] Pokéhaba[VAR NUMBRNCH(0000,0100)]s en total a\ntus Pokémon!
+¡No hay nada que haga más felices a los\nPokémon que las Pokéhabas! Toma, un regalillo.
+Prueba a darles Pokéhabas a tus Pokémon\ncuando el recorrido insular no te ponga las\r\ncosas fáciles.\c\n¡Puede que te saquen de más de un apuro!
